@@ -3,7 +3,10 @@
 https://sysagro.farm
 
 Revolucione a Gestão da Sua Fazenda com Nosso Software Agrícola Inteligente
-Cansado das pilhas de papel e planilhas complexas? Nosso software SaaS foi feito para você, produtor rural que busca eficiência e lucratividade. Transformamos a gestão da sua fazenda com tecnologia de ponta e Inteligência Artificial (IA), simplificando seu dia a dia e impulsionando seus resultados.
+Cansado das pilhas de papel e planilhas complexas? 
+Nosso software SaaS foi feito para você, produtor rural que busca eficiência e lucratividade. 
+Transformamos a gestão da sua fazenda com tecnologia de ponta e Inteligência Artificial (IA). 
+Simplificamos seu dia a dia e impulsionamos seus resultados.
 
 ## Fase 1: Gestão Administrativa e Financeira
 Começamos pelo coração da sua propriedade: o dinheiro. Tenha controle total sobre as finanças e o maquinário:
